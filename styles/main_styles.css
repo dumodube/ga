@@ -441,6 +441,10 @@ section
 	height: 400px;
   }
 
+  .img-background{
+	  width: 500px;
+	  height: auto;
+  }
 .main_nav_contaner
 {
 
