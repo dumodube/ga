@@ -359,7 +359,13 @@ section
 /*********************************
 3.2 Header Content
 *********************************/
-
+.dark-overlay{
+    background-color:rgba(0,0,0,0.4);
+    top:0;
+    left:0;
+    width:100%;
+    min-height: 700px;
+  }
 .header_container
 {
 	width: 100%;
